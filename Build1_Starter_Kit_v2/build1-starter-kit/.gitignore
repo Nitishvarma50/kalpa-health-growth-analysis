@@ -1,7 +1,0 @@
-.ipynb_checkpoints/
-__pycache__/
-*.pyc
-.env
-.DS_Store
-data/clean/*.csv
-!data/clean/README.md
