@@ -1,0 +1,1840 @@
+{
+ "generated": "2026-10-20",
+ "files": [
+  {
+   "path": "README.md",
+   "bytes": 2037,
+   "sha256": "7676c50315128fe6dd290192f44a0495ce556694ca39715dbf3b377f5f4398d3"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-01.csv.gz",
+   "bytes": 157586,
+   "sha256": "67fb2b4194b1dd73a63da822389fb1138af5cadd972f3b7f5f48121b0b229c0a"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-02.csv.gz",
+   "bytes": 152918,
+   "sha256": "079a92bb58fa024987a90019e0e431fa665c3a664a251e23c8760ecaf646647b"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-03.csv.gz",
+   "bytes": 153711,
+   "sha256": "c45d93f47512e9e610b5e57b3cf68d79520d73f1a36e56e1c0c50b734caa78fa"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-04.csv.gz",
+   "bytes": 161848,
+   "sha256": "038e584c2248543110921371e8e219646760bd00d5b3d17ccaa217d307d460bd"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-05.csv.gz",
+   "bytes": 155733,
+   "sha256": "30f6735f41050628ef694ae77f9bce11c4f9fb0bd24862ac456df4d8344c3b1f"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-06.csv.gz",
+   "bytes": 159082,
+   "sha256": "402dabf5dd6deb9c22a193a760e681bdff3a28d900e12eca622c1fecf9567cf0"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-07.csv.gz",
+   "bytes": 152449,
+   "sha256": "ae89f551f10da4bb2436147ed13081405727a1be0abb33356b56a6e56d3f6ba9"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-08.csv.gz",
+   "bytes": 143973,
+   "sha256": "bbf4cacab1e5c64d1187aeaf1fc0d6007cd9ef783f508435eea1fcb425ee2f6b"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-09.csv.gz",
+   "bytes": 151357,
+   "sha256": "f4126b10e3affa2bbd7965ced270b164c0e371132b5c8eee24288fc469f81a46"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-10.csv.gz",
+   "bytes": 153170,
+   "sha256": "2e6c300dbb75633064736884ac8e1fd707d56d0b239a85fc073fb7ef4421f06f"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-11.csv.gz",
+   "bytes": 147409,
+   "sha256": "03be8163930be97e5fd4599c9b2e1fdd046205a3e546a962bdfad06db1b3ee69"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2025-12.csv.gz",
+   "bytes": 147958,
+   "sha256": "202105618f8219a514303dd8ffc59c2cda0b6eb12a35d1a7c0432b70a8891cc2"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2026-01.csv.gz",
+   "bytes": 166408,
+   "sha256": "27401a038804619ffe811aeab1eae04fdbcad7897383c702eacecbf0b698ac48"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2026-02.csv.gz",
+   "bytes": 172214,
+   "sha256": "45d3db47e3399ffcacc058c04adc972d51e4265996202a936f37b75fd3ba2802"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2026-03.csv.gz",
+   "bytes": 170377,
+   "sha256": "72eb458d6cfc051b2ef2ea2acc543ca558860cc146a3eff53605e8db312fc28e"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2026-04.csv.gz",
+   "bytes": 168264,
+   "sha256": "f400f6a947548451a97fd90e516b7cdcef5e966cce8aa4433abb79196b24e2ae"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2026-05.csv.gz",
+   "bytes": 169545,
+   "sha256": "ad97df74030dbf0726d330d1f0a172e07dbb784b206f6d99c7b454109a5d8336"
+  },
+  {
+   "path": "bookings/legacy/ahmedabad/bookings_2026-06.csv.gz",
+   "bytes": 171734,
+   "sha256": "8414292d530f0c18647c65035edff47dd98bef09fd6e8ba0dcc2ee9caf42e204"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-01.csv.gz",
+   "bytes": 209384,
+   "sha256": "0d8265a57d7aec72944e4aa1b483ac3bc3d3929c97b3c5ad0ff25d8b87ed5c84"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-02.csv.gz",
+   "bytes": 203236,
+   "sha256": "1a5b5c44985d16d4da21d358c1bfffbcd706b584c8964c8445c7e11046fe2ce4"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-03.csv.gz",
+   "bytes": 215062,
+   "sha256": "77c606da57292c33b0bd6811e1f0f53408904bfc9cff56f88eb87bda85c64836"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-04.csv.gz",
+   "bytes": 198172,
+   "sha256": "b4d58e748cf6aa92220ca04fa67ebe97af261f37f560d9e9f7989e29e62c2ce9"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-05.csv.gz",
+   "bytes": 203519,
+   "sha256": "ce861378247cf4cfdda365ed3335e7b64e4281eb65721a2dd2326818c62017df"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-06.csv.gz",
+   "bytes": 201277,
+   "sha256": "265bbd2c09c611dd235c85da410857fdf2834ef041409bee1b8b04ab3c484a9e"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-07.csv.gz",
+   "bytes": 198804,
+   "sha256": "e60286b50ef5bcfebe2c94118b7e507f64ec537f52a16dbecdb243b7fd029cc5"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-08.csv.gz",
+   "bytes": 191045,
+   "sha256": "79837e4f7702578ac074378350fd5a0a26e10c2e7c5ba8b14688360d89eee4b8"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-09.csv.gz",
+   "bytes": 201066,
+   "sha256": "ba2287e11ed5ead82e9cec40de8b66071a8c4c6e0f86460f91dfbb3f4012493f"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-10.csv.gz",
+   "bytes": 194972,
+   "sha256": "d8b029e53107e211251c3f2f5eb8801d075a30b16d89fc1cf419368e96fbcdff"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-11.csv.gz",
+   "bytes": 179359,
+   "sha256": "72a585993a50c479f32c8f24e6f1b6b47b1bf1837161e2972c7194f502a13908"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2025-12.csv.gz",
+   "bytes": 181602,
+   "sha256": "77e5e910224fb4cdfde62a4a9c8347c140d08cc33e466cdde26eda1df1ed7e40"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2026-01.csv.gz",
+   "bytes": 215878,
+   "sha256": "732d1116aa8e1806f508a0f8fa032fd1815a4855c3f0dcd799becea6784e331d"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2026-02.csv.gz",
+   "bytes": 232836,
+   "sha256": "b24c6a523abfc6a46aa380e24839562b637f5610c493fb66e8043538570b2d12"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2026-03.csv.gz",
+   "bytes": 206728,
+   "sha256": "9d0913ad014b9132bbfb3368dbebb15e255c1eecfe343c0220bb54c287c62767"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2026-04.csv.gz",
+   "bytes": 215707,
+   "sha256": "98cb3e77764f6ae179bae89fcb96fe073b3023e460a3a289b8327e934afe461f"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2026-05.csv.gz",
+   "bytes": 216329,
+   "sha256": "fce373156b354fbda6886bc680847ced9490fc97b37f516112f29380c945b40f"
+  },
+  {
+   "path": "bookings/legacy/bengaluru/bookings_2026-06.csv.gz",
+   "bytes": 205377,
+   "sha256": "9ab475836adf347dcaa92c8e01dd855d88ca85551d59750984de34e18628ec2b"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-01.csv.gz",
+   "bytes": 161214,
+   "sha256": "1c581fa457f422419a072c9dd6bdbb5efc48cc2bb9b75fad8416427e4ab1bac2"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-02.csv.gz",
+   "bytes": 157342,
+   "sha256": "f64405bc3e4f35803adaebd3d219448548de7295cd6827f8b60d4ba2bd39fc40"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-03.csv.gz",
+   "bytes": 171976,
+   "sha256": "2be8bb811febb9aefe25ce7737860dc3f6a206b2947c6ddce685dad8016cbcce"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-04.csv.gz",
+   "bytes": 163495,
+   "sha256": "e72b24c97a50e8958b459784430fbc184162778528495928542839753af69916"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-05.csv.gz",
+   "bytes": 163302,
+   "sha256": "6b19acbc868fdd65bbcd5a03c2cca7c14c01ae144682d5facef39bb72c252532"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-06.csv.gz",
+   "bytes": 163167,
+   "sha256": "783f12522e444548d0df35866b30af8bc1c70c85b8bddc6ccef59c909243ea6f"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-07.csv.gz",
+   "bytes": 163671,
+   "sha256": "99b6bbb358ce2d9aed893b1cab9261310a8445cff1cfe0165117327fe6bd5260"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-08.csv.gz",
+   "bytes": 160814,
+   "sha256": "6507b4bfc5bf15c3bc330346e71d90507961c2d1da921ad068dd1f4c184892e8"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-09.csv.gz",
+   "bytes": 169939,
+   "sha256": "e11bb0f848dcc6b675376b7e68fc24a5ed373d847ad5735f0341c058f5faaa71"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-10.csv.gz",
+   "bytes": 160268,
+   "sha256": "26e13f3e387e4a0d48a9921e49ea0dbea033646c87f324adf2ca974cd6cc40f2"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-11.csv.gz",
+   "bytes": 164524,
+   "sha256": "a2913c230b070bc7a24b6407438c24706babb8c4b5d3a24f4802eb24ae7bc71e"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2025-12.csv.gz",
+   "bytes": 160639,
+   "sha256": "6289549e79551114b80d3f9223a5ec5906f417515503a37d4971264b1fc0b518"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2026-01.csv.gz",
+   "bytes": 161721,
+   "sha256": "9cf43c32104946ba8beba3a74f8fae3a5106be6e1cfc1b6c0e3bfe0c2227d05b"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2026-02.csv.gz",
+   "bytes": 173624,
+   "sha256": "9cee33e5ca24fd54695d705d4b20a37985920d024a53ecd8e088247b31b0a11a"
+  },
+  {
+   "path": "bookings/legacy/chennai/bookings_2026-03.csv.gz",
+   "bytes": 158526,
+   "sha256": "191c11118b8db864b85f283f2b0c0e5b9fa03d3ccf96993d6e696922718ef2a2"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-01.csv.gz",
+   "bytes": 153175,
+   "sha256": "bac519a0ab8304a473357e8d884a9d3827f3180d51546770cb66c49d3e699a9b"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-02.csv.gz",
+   "bytes": 152942,
+   "sha256": "202d15d6acaf66b06eae01e5a884b6436f82f62b6cea3509cdff4d98d761d37c"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-03.csv.gz",
+   "bytes": 147437,
+   "sha256": "c4bdea806f922db399adb39ec56f6c0b26052480eabc01fde6501394e30fea2f"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-04.csv.gz",
+   "bytes": 153502,
+   "sha256": "161be9549d74e99f83146ec2e10926d2fde96586412409b55bd0bfa50d13ecaf"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-05.csv.gz",
+   "bytes": 145554,
+   "sha256": "4030c5a5e0435b6f95f70c143a2e8a231b413ac4f0b0968458d6c0da769bd016"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-06.csv.gz",
+   "bytes": 141604,
+   "sha256": "8bf278cbe9c4d37832137699fde875316dc64349f17fabb0aea372f846bd3e75"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-07.csv.gz",
+   "bytes": 148026,
+   "sha256": "fab897e107328187d29dfee9cf513775979a7f287490ae6a89355e52225b2195"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-08.csv.gz",
+   "bytes": 137156,
+   "sha256": "e7e8e185d9577d72e35a2766fc326aa6480cc93617d9fce25d35766390312b7e"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-09.csv.gz",
+   "bytes": 142416,
+   "sha256": "2a26c1ed87687b385ca536198028bb5cb3561a66da7e8499da4551b8a80b094a"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-10.csv.gz",
+   "bytes": 138632,
+   "sha256": "1c30be8ef9d60a02edf40960ca4bf06682986d607bace52e468d655cc4fefe2f"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-11.csv.gz",
+   "bytes": 135497,
+   "sha256": "f1e4d67945e90cb017340d3dcdc3869139f7ba5ac7004d65ccee0b016364874c"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2025-12.csv.gz",
+   "bytes": 142449,
+   "sha256": "04819f4348b6e39e885b1bccb44df23ae2e29f423c6c8c2e3c873caf69b8d149"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2026-01.csv.gz",
+   "bytes": 155973,
+   "sha256": "a72fa7801512a972f25f59a919b21dc8fa0ef48a50425a66b4b1c06cb0f0b55e"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2026-02.csv.gz",
+   "bytes": 161649,
+   "sha256": "25c12f745a24c0eee8ff20edec38bf63181f20f79d64af94cd1bf6da60a90f52"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2026-03.csv.gz",
+   "bytes": 156689,
+   "sha256": "cd3e889059ad92c90ec577a79577d476e7bbeee24170331ffb6e47e01b1046c4"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2026-04.csv.gz",
+   "bytes": 159434,
+   "sha256": "4d200f2f0fdb23074d74357f3daddb7750e17989843a9577594cc32a07e241b5"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2026-05.csv.gz",
+   "bytes": 149623,
+   "sha256": "be15320b6728067c39a0497ca7a5dc196fc2d46dd9769c7d22d17f14a6a78285"
+  },
+  {
+   "path": "bookings/legacy/hyderabad/bookings_2026-06.csv.gz",
+   "bytes": 156960,
+   "sha256": "5724b9f855f94266c331e16370c7704596d900c809a16132ffbc5a20cb4e1730"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-01.csv.gz",
+   "bytes": 92653,
+   "sha256": "119a45e3bb3c7d2ea6223efa77ca9b2f5e87db4a81b3e3e663811c4e568697c4"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-02.csv.gz",
+   "bytes": 97235,
+   "sha256": "e546fff95ef131c434121ab91f1e40cbc22497f1522db67f0babca7528fe7241"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-03.csv.gz",
+   "bytes": 100639,
+   "sha256": "88ec70fb8cde004448bed4e9a1382a1182e1ecbb7b24ec8a1279f402f362fa4e"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-04.csv.gz",
+   "bytes": 83016,
+   "sha256": "fa5be40acc060792b2ddc8e006d8a1e60332d78db083344476a3fa74cb0a67ae"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-05.csv.gz",
+   "bytes": 88799,
+   "sha256": "76c4d0fe9d1fdbc13c9484d4c616734e22072984a3ce47b6c242ba8208146244"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-06.csv.gz",
+   "bytes": 84499,
+   "sha256": "1247aa1b54b5943104eb455b714e8dd6feeb9d2fde4c3a5ada30b69c39e51621"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-07.csv.gz",
+   "bytes": 84201,
+   "sha256": "75ddea3d59e6cb99670e6903e545b540246f08c297cada12bc8ad260755d020f"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-08.csv.gz",
+   "bytes": 84324,
+   "sha256": "deeacc17de2e467c1b369e319d772d59aef04bcda1757d6522b1c8c3d4002c24"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-09.csv.gz",
+   "bytes": 85731,
+   "sha256": "590dec005c3e07c4013a9b37a15fc5502eb8e00d85103daf8b9bfa6273b3a282"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-10.csv.gz",
+   "bytes": 88234,
+   "sha256": "30c10515f611fbbdc517f54778b5bd3ed2e8d7d8173da4c0487a3ae3107a2775"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-11.csv.gz",
+   "bytes": 87019,
+   "sha256": "fbf5137c5660bcc9d32200321e7a7a7c22362bb6882a91a1fa008654d3cdcf95"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2025-12.csv.gz",
+   "bytes": 82887,
+   "sha256": "bbf28ec382ec913e814d8cee373804cdf3d443b4c21bbfff25595f8207289f9b"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2026-01.csv.gz",
+   "bytes": 80370,
+   "sha256": "9a0880f85a40d66b4e4de7079a17f423ac2d983d1e6a38acda822d8f4ccbe47e"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2026-02.csv.gz",
+   "bytes": 80601,
+   "sha256": "938e3b9b349601597088f109b1852f1ec289c6c29fa58bc5d384065250672856"
+  },
+  {
+   "path": "bookings/legacy/jaipur/bookings_2026-03.csv.gz",
+   "bytes": 81990,
+   "sha256": "e0f714b943416d3efa830f3a8ccc16bab7c49dda3d78a8e4a53be1382553f2fa"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-01.csv.gz",
+   "bytes": 125812,
+   "sha256": "8910765e6874d45ee07ee54aa15de939803f8c60fab7585578a569c4a6590e9b"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-02.csv.gz",
+   "bytes": 125166,
+   "sha256": "d2f7d35f21efac392a6142956c02e7f934d32ed6bfa6f8937706a2549c73aa3f"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-03.csv.gz",
+   "bytes": 119386,
+   "sha256": "0890950d773d075c1c76405780494a1566dafe9562b07515b8fbc7dfe5c689c8"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-04.csv.gz",
+   "bytes": 123480,
+   "sha256": "8ead21ae20dd1cf324ae5ad16c56a55336caab8930ac9dd975d7eea96c0a2128"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-05.csv.gz",
+   "bytes": 120689,
+   "sha256": "4e061224116663167bc42e1eca7205e1e593f517b61f684f38df16b0274b1a13"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-06.csv.gz",
+   "bytes": 119451,
+   "sha256": "84758a00c618a07865c098af5161bd740c0b1c310eaaa90377532fb181264d18"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-07.csv.gz",
+   "bytes": 120650,
+   "sha256": "e31861b2fdcc6f4b059b49ca6abff9dcbdc1926026f837a2bf07251715a1988d"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-08.csv.gz",
+   "bytes": 115321,
+   "sha256": "3cc07835531b0047cbaeb5ce6a9a0c4ea3555c18673eb7eec9efb6f5517c0d70"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-09.csv.gz",
+   "bytes": 126704,
+   "sha256": "fcd870206c075e6e9fa23441fd3331dac27d8ea688b0118405882d1c3435eb19"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-10.csv.gz",
+   "bytes": 115576,
+   "sha256": "acb8a71414aef70dce269a1b3f741d4b44671195c79624d9d3bee047c3a8fbb2"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-11.csv.gz",
+   "bytes": 117868,
+   "sha256": "664044c8d30c826f38b2c03e44a12e0f722da5783e0521f0508a6ebdffe2f45d"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2025-12.csv.gz",
+   "bytes": 117538,
+   "sha256": "a01142e2c682e57b582d895dda5c0c7b59681cbd3762350028a26600f1f0c985"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2026-01.csv.gz",
+   "bytes": 135440,
+   "sha256": "31ef11890b8971e77814b9b5583adcd2fcb3894fd195b5664b28e6f9f925cd3e"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2026-02.csv.gz",
+   "bytes": 127299,
+   "sha256": "b53538fbb468a080247bdbbe4d5547e87e13c372d37d01e8b3641545b5e9874b"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2026-03.csv.gz",
+   "bytes": 134658,
+   "sha256": "47e9e5ed406e68a89b541ea224615a6bef366ccf37f8ed3515e3d701661aa975"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2026-04.csv.gz",
+   "bytes": 132002,
+   "sha256": "dcd7be089c16384e99648f6bb8c545f836e98f741cd1578f62535b00e6840bef"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2026-05.csv.gz",
+   "bytes": 119911,
+   "sha256": "24c9b7962397a492dcd1b8dfe48003ee2e6500980f6b6c856560e8a444e3f5cf"
+  },
+  {
+   "path": "bookings/legacy/pune/bookings_2026-06.csv.gz",
+   "bytes": 129738,
+   "sha256": "7dc750b812c797bfbda9de7293fab03c7b68bf9050d587dd80fb3e121f034013"
+  },
+  {
+   "path": "bookings/nova/chennai/bookings_2026-04.jsonl.gz",
+   "bytes": 145555,
+   "sha256": "4bed6d42164acf8131fd3b8f05528edcb3d34e019145614ee33edfb682ea5a5f"
+  },
+  {
+   "path": "bookings/nova/chennai/bookings_2026-05.jsonl.gz",
+   "bytes": 146157,
+   "sha256": "58d5d208bdaa57a956a9afc2b2e48d78bc7413d3a90335c21a882f33a588646b"
+  },
+  {
+   "path": "bookings/nova/chennai/bookings_2026-06.jsonl.gz",
+   "bytes": 142962,
+   "sha256": "b4a52b2389dcd9d77674bc4596a5c0e6536c1388f8150a32b9ef309a429f0e86"
+  },
+  {
+   "path": "bookings/nova/jaipur/bookings_2026-04.jsonl.gz",
+   "bytes": 71895,
+   "sha256": "01c6fd39d5a49cd99ced400cd13e38dfbbac209ec4d6d62b2e179035f696b430"
+  },
+  {
+   "path": "bookings/nova/jaipur/bookings_2026-05.jsonl.gz",
+   "bytes": 72152,
+   "sha256": "db931cbd35e0ab9c3ff9201bc47bb2a34a355426734833e32bc135545055a608"
+  },
+  {
+   "path": "bookings/nova/jaipur/bookings_2026-06.jsonl.gz",
+   "bytes": 74646,
+   "sha256": "122c2bf566486a90f5ae221149b00ce5c102bd0cab141fc5c2a9080bc159d965"
+  },
+  {
+   "path": "campaigns/campaign_bookings.csv.gz",
+   "bytes": 132281,
+   "sha256": "6eba6e8eae32720d518d4bdc8da0a6e126a6381c9ea1cec309de77655ced65a1"
+  },
+  {
+   "path": "campaigns/campaigns.csv",
+   "bytes": 129,
+   "sha256": "c09ce43c36de8bc4a5e6b6f6b0f5470f4868fab8df5b6c79ff39b71292c84fdc"
+  },
+  {
+   "path": "collections/collections_AHM_2025-01.csv.gz",
+   "bytes": 43226,
+   "sha256": "df82fdecefb18686656b892576fa9b45621720ba5a3c12096c8d91c5bafefd93"
+  },
+  {
+   "path": "collections/collections_AHM_2025-02.csv.gz",
+   "bytes": 41350,
+   "sha256": "50b645d194ea74d56132c67b4803fd0fc9b506ac418cbe72b7677deecfa12663"
+  },
+  {
+   "path": "collections/collections_AHM_2025-03.csv.gz",
+   "bytes": 41877,
+   "sha256": "f894f03f6a2b51ed328b3534c342db2cf1e74fe1d1cdccab7d4c6971ac458c5c"
+  },
+  {
+   "path": "collections/collections_AHM_2025-04.csv.gz",
+   "bytes": 44229,
+   "sha256": "a3006b1968811e3aae23983c78190483339119d964a7750fbbe63de03c16df21"
+  },
+  {
+   "path": "collections/collections_AHM_2025-05.csv.gz",
+   "bytes": 42896,
+   "sha256": "b1af8e79e3d54ba5f1dc9ffb649f41a63f2b01cb5f5dbbaaf082db5969cb8e94"
+  },
+  {
+   "path": "collections/collections_AHM_2025-06.csv.gz",
+   "bytes": 43386,
+   "sha256": "d219a72830773c8db397748e59cc23e205134d937f5c727a776776651829611a"
+  },
+  {
+   "path": "collections/collections_AHM_2025-07.csv.gz",
+   "bytes": 41707,
+   "sha256": "65123090fc8b3d2305171cbba1183b3884502e944691c3ef32748df984ad116c"
+  },
+  {
+   "path": "collections/collections_AHM_2025-08.csv.gz",
+   "bytes": 39064,
+   "sha256": "4a8afe03083ebe7c8c6a857b503371b395c7de28a4e42731e0d484e6129a751b"
+  },
+  {
+   "path": "collections/collections_AHM_2025-09.csv.gz",
+   "bytes": 41449,
+   "sha256": "cf72f298d157cf683c0fe2d3427363ee81bd7de74bd1f8476dd1dd9a22c2ff95"
+  },
+  {
+   "path": "collections/collections_AHM_2025-10.csv.gz",
+   "bytes": 41578,
+   "sha256": "3fa7e9812032545d3b2e513952070befa814974f21b3b6240785d34eec82729a"
+  },
+  {
+   "path": "collections/collections_AHM_2025-11.csv.gz",
+   "bytes": 40123,
+   "sha256": "acb16333615f0a4e0590b58da556ef139121b64d59d6e62751d742d3aaf2a4f5"
+  },
+  {
+   "path": "collections/collections_AHM_2025-12.csv.gz",
+   "bytes": 40594,
+   "sha256": "d27a35368367dbce7411edf340621bed021e3ab3da9cb1f94747c0a2cd0e4eca"
+  },
+  {
+   "path": "collections/collections_AHM_2026-01.csv.gz",
+   "bytes": 47772,
+   "sha256": "5aef8636de1cfdc9fa921b6a069b43cf31822571ec1efaa87b811331332669ff"
+  },
+  {
+   "path": "collections/collections_AHM_2026-02.csv.gz",
+   "bytes": 49376,
+   "sha256": "1f589122e1a8e8393b38912dc4aab9f505bed466c48d6044874ba0e894ddae2a"
+  },
+  {
+   "path": "collections/collections_AHM_2026-03.csv.gz",
+   "bytes": 48681,
+   "sha256": "0851b81a0cf2454383c989a8e3e82e08100704f7b09ee63c0a287a1d9a1116a2"
+  },
+  {
+   "path": "collections/collections_AHM_2026-04.csv.gz",
+   "bytes": 46093,
+   "sha256": "37cea363071fcc2b718a38dd8702a21a699459d333c69ca7398696d0af760fcd"
+  },
+  {
+   "path": "collections/collections_AHM_2026-05.csv.gz",
+   "bytes": 46880,
+   "sha256": "1cf9a598c5e82cf534240b7fc443e29f71cfc3a0052e084649d9f05712719f0b"
+  },
+  {
+   "path": "collections/collections_AHM_2026-06.csv.gz",
+   "bytes": 46956,
+   "sha256": "9355bf847d5798fe1967f4dba65a76d259b7c0cde13cb4e6bb923c402307748b"
+  },
+  {
+   "path": "collections/collections_BLR_2025-01.csv.gz",
+   "bytes": 57226,
+   "sha256": "84ecdda153831dff3d563fc90a632935a9fac5b70be68c58cb037fd8e4c6ee19"
+  },
+  {
+   "path": "collections/collections_BLR_2025-02.csv.gz",
+   "bytes": 55378,
+   "sha256": "0cc352ceb9452693261167213095e6d78c79e4fc445102a95a4048b6cdb80419"
+  },
+  {
+   "path": "collections/collections_BLR_2025-03.csv.gz",
+   "bytes": 58541,
+   "sha256": "3ece463740c022f31ea66d7afe66259cd65c72c58cc8cda545d2aaf8a54d98c0"
+  },
+  {
+   "path": "collections/collections_BLR_2025-04.csv.gz",
+   "bytes": 54589,
+   "sha256": "b28caf0c2cdaff9f42785ac9fda548b7a1adec83fa684bc5434a0715778d3bfc"
+  },
+  {
+   "path": "collections/collections_BLR_2025-05.csv.gz",
+   "bytes": 55629,
+   "sha256": "d45e3e6121a02153a423084bc2ca5f741f7d0c04156f9884ed7e915881e29121"
+  },
+  {
+   "path": "collections/collections_BLR_2025-06.csv.gz",
+   "bytes": 55190,
+   "sha256": "4b9970403bb3906dd36b9422186ac63e22221b10bee186e563789621a2c811f1"
+  },
+  {
+   "path": "collections/collections_BLR_2025-07.csv.gz",
+   "bytes": 54347,
+   "sha256": "a8d8418dbd99f19c9dd23cdec6a48b79acbd616a9e63ef60f203cb9e669b4bfa"
+  },
+  {
+   "path": "collections/collections_BLR_2025-08.csv.gz",
+   "bytes": 52656,
+   "sha256": "0ba77410dbbadb2a7bc6ed5cf6cc37f6fb8115aadfd427513c6dc98c423d274c"
+  },
+  {
+   "path": "collections/collections_BLR_2025-09.csv.gz",
+   "bytes": 54629,
+   "sha256": "ea9ae6c6b9d848191bd75f153c334c1b636ae1b30ce8cdda39b18aed6e4e116b"
+  },
+  {
+   "path": "collections/collections_BLR_2025-10.csv.gz",
+   "bytes": 53432,
+   "sha256": "8e36b358afe0265c8884aa1759dfd43d1ec02624e4acea674f88551cf9bf8613"
+  },
+  {
+   "path": "collections/collections_BLR_2025-11.csv.gz",
+   "bytes": 48599,
+   "sha256": "fa57a4c19d370f63820164f409c7a834ab15153f70252fa846b05dfd4cda4c72"
+  },
+  {
+   "path": "collections/collections_BLR_2025-12.csv.gz",
+   "bytes": 50150,
+   "sha256": "7313d6c9abebb20c18e6a1f87c67479827e2cf9a2052c1cfe22ed6fe772b8ec8"
+  },
+  {
+   "path": "collections/collections_BLR_2026-01.csv.gz",
+   "bytes": 62187,
+   "sha256": "59f04ac46169b1abdab15e2473c4eeed03d67765abe96ac77417fc808812e756"
+  },
+  {
+   "path": "collections/collections_BLR_2026-02.csv.gz",
+   "bytes": 66646,
+   "sha256": "ec135601b0e1af4f44ee2e05cdce230defa43a6e97d0ba34d0da78d8649f4aa9"
+  },
+  {
+   "path": "collections/collections_BLR_2026-03.csv.gz",
+   "bytes": 59100,
+   "sha256": "631696068eed82c6994e42a362b67b90c6f8a7e725a9c83742c504a163a2514f"
+  },
+  {
+   "path": "collections/collections_BLR_2026-04.csv.gz",
+   "bytes": 59460,
+   "sha256": "8df5c72350aeacd524ac5bdd8e04dafb81fef3ebf1c360d0a383f39794a73bea"
+  },
+  {
+   "path": "collections/collections_BLR_2026-05.csv.gz",
+   "bytes": 59015,
+   "sha256": "915cf9d7150535278029be85fc1a4f8df1736ba156107da359fe22125e1e5243"
+  },
+  {
+   "path": "collections/collections_BLR_2026-06.csv.gz",
+   "bytes": 56565,
+   "sha256": "08faec5bdfda07e7fb447a53e90c3e803bbd4b76314d07a14b0c8e438b6daefe"
+  },
+  {
+   "path": "collections/collections_CHE_2025-01.csv.gz",
+   "bytes": 44094,
+   "sha256": "e8a11aa9c4bf912735ee815ea8c2b1df83a41ceb3c06a29be2f1209d08547142"
+  },
+  {
+   "path": "collections/collections_CHE_2025-02.csv.gz",
+   "bytes": 43150,
+   "sha256": "2249360b1b2609ab20e4640de83018e950e0793e14829511349888d673ffa2be"
+  },
+  {
+   "path": "collections/collections_CHE_2025-03.csv.gz",
+   "bytes": 46926,
+   "sha256": "5463c741af32ce8b5703b9b11faf8504ce1de7c1086c0e3f8155949613649b5c"
+  },
+  {
+   "path": "collections/collections_CHE_2025-04.csv.gz",
+   "bytes": 44385,
+   "sha256": "81da38a523e14db4fc5597c8e8a7b85fa5260dcc6f6e664a4a055e1e598fc9b8"
+  },
+  {
+   "path": "collections/collections_CHE_2025-05.csv.gz",
+   "bytes": 44741,
+   "sha256": "b6f86eeda05cd853532b3e36e06b97c8423e0e79077d9ce34b50f3182556c0eb"
+  },
+  {
+   "path": "collections/collections_CHE_2025-06.csv.gz",
+   "bytes": 44318,
+   "sha256": "d56ae56ceacabcf5184fdc4889dd24d3c9faed4c4fa05c2812c949f78de78490"
+  },
+  {
+   "path": "collections/collections_CHE_2025-07.csv.gz",
+   "bytes": 44553,
+   "sha256": "0e4c7801be6d9d69603fc4e2fae76810a6f7fdca73bfabaef601f3942a08abf7"
+  },
+  {
+   "path": "collections/collections_CHE_2025-08.csv.gz",
+   "bytes": 43804,
+   "sha256": "dd3029d123aeb94ccc725bf7a7b65d0a4118ee9d01f26085c7c06b738d9f0a1d"
+  },
+  {
+   "path": "collections/collections_CHE_2025-09.csv.gz",
+   "bytes": 46222,
+   "sha256": "06383f75b2cc73875ad0ece3a534c438e245516b8b6b5939be3bebf5baaf7c07"
+  },
+  {
+   "path": "collections/collections_CHE_2025-10.csv.gz",
+   "bytes": 43923,
+   "sha256": "ff4295d1e06e7645cb88b414b47472ac4646019620b7b6ac6d82a030e7d2f1d6"
+  },
+  {
+   "path": "collections/collections_CHE_2025-11.csv.gz",
+   "bytes": 45226,
+   "sha256": "87f8358c97deb5d203998ec9616d3b3b0f446ce3dd85694d0b408a787eab3ff9"
+  },
+  {
+   "path": "collections/collections_CHE_2025-12.csv.gz",
+   "bytes": 43803,
+   "sha256": "224e6a4c842244251c67b13bda38017e9ca9c9ccfd77817763c9a6050bd9f885"
+  },
+  {
+   "path": "collections/collections_CHE_2026-01.csv.gz",
+   "bytes": 46117,
+   "sha256": "4a606ee8b4e27c5138245bd7f7e30509269e3793b6723a5912d12ef9de8c25cb"
+  },
+  {
+   "path": "collections/collections_CHE_2026-02.csv.gz",
+   "bytes": 48992,
+   "sha256": "5932b1985334b0e1ec3277aff5914d88c4b15ca981676eeb26bc81b7019950b9"
+  },
+  {
+   "path": "collections/collections_CHE_2026-03.csv.gz",
+   "bytes": 45329,
+   "sha256": "ac015dc0ee4d8a248ce0015efa317b911bce85fd5821897dba936d64b1f38ee6"
+  },
+  {
+   "path": "collections/collections_CHE_2026-04.csv.gz",
+   "bytes": 43258,
+   "sha256": "a22334799a30d99de3d9a2a51588639ee454de2ae27759e5fd9b54d59651f63d"
+  },
+  {
+   "path": "collections/collections_CHE_2026-05.csv.gz",
+   "bytes": 42868,
+   "sha256": "6e4f65157bd41507dcd82cea6dd2adeb5bd6e02155e6e4c6ca591c9c4b99fcd0"
+  },
+  {
+   "path": "collections/collections_CHE_2026-06.csv.gz",
+   "bytes": 42367,
+   "sha256": "33b37706e9b2fed4b3dc58f41ab28762f24ebe11e1a18f15c00b78b7d82c5a31"
+  },
+  {
+   "path": "collections/collections_HYD_2025-01.csv.gz",
+   "bytes": 41902,
+   "sha256": "b75353c14758a87521803cf07b3a27e0fae420f0c7f9526a69de7aa79156aff6"
+  },
+  {
+   "path": "collections/collections_HYD_2025-02.csv.gz",
+   "bytes": 41743,
+   "sha256": "5cccd14d743f800c93ac359e77962730c7354eef53c05dac688e0d8f0a0f3403"
+  },
+  {
+   "path": "collections/collections_HYD_2025-03.csv.gz",
+   "bytes": 40426,
+   "sha256": "bd8396f148523bdbc9b1c7a758f03dba6ddf4e82177336bfbb6c8123af838b97"
+  },
+  {
+   "path": "collections/collections_HYD_2025-04.csv.gz",
+   "bytes": 41745,
+   "sha256": "c160c6af0d7c9ed6ecbbf7831f9e2cc0fdddd310561e7b913c3f2116ee7a76d7"
+  },
+  {
+   "path": "collections/collections_HYD_2025-05.csv.gz",
+   "bytes": 39724,
+   "sha256": "b30a7f6051cc34bda5092dc55309d04a16f7e4c6511486ce5fbf032e01550d08"
+  },
+  {
+   "path": "collections/collections_HYD_2025-06.csv.gz",
+   "bytes": 38622,
+   "sha256": "c8408a182c2c53eefa72a3df62ebf066a57f20e535b9f9ce18f8b2437cb464d5"
+  },
+  {
+   "path": "collections/collections_HYD_2025-07.csv.gz",
+   "bytes": 40620,
+   "sha256": "ef5848f88598c658b7c3cb2e85a7517c87052b038679863553fccfc7f4f2b586"
+  },
+  {
+   "path": "collections/collections_HYD_2025-08.csv.gz",
+   "bytes": 37515,
+   "sha256": "6821a670d47cb439b8f708feb86301342abc4d280f3e44a964b7f84f87ef718d"
+  },
+  {
+   "path": "collections/collections_HYD_2025-09.csv.gz",
+   "bytes": 39139,
+   "sha256": "c9ace71a177a86be7035dc8aa319a826781105b5f6eb354a0fcc1d0e3464c803"
+  },
+  {
+   "path": "collections/collections_HYD_2025-10.csv.gz",
+   "bytes": 37975,
+   "sha256": "7355d8f3168d093531224753743f17a497e465f141998d025a17299ea79a0c9f"
+  },
+  {
+   "path": "collections/collections_HYD_2025-11.csv.gz",
+   "bytes": 37354,
+   "sha256": "e2440d5230b269f10adb3a41bd710a807441beaa03fb92bf10674ebabc69cee9"
+  },
+  {
+   "path": "collections/collections_HYD_2025-12.csv.gz",
+   "bytes": 39041,
+   "sha256": "4d2a26ab0df28e5257466c20998a1248eee947fabb14214657e43c48fd35ae26"
+  },
+  {
+   "path": "collections/collections_HYD_2026-01.csv.gz",
+   "bytes": 44622,
+   "sha256": "71dbf5b88af1e081feb4ec8a215090afdd2e3ea637f8a6d55d1bf48f932b1d51"
+  },
+  {
+   "path": "collections/collections_HYD_2026-02.csv.gz",
+   "bytes": 46811,
+   "sha256": "c98647a1b333b7ccd0399dae29f7cf6fa3f09fb0f5aeea32b4c0ae24c158ff0f"
+  },
+  {
+   "path": "collections/collections_HYD_2026-03.csv.gz",
+   "bytes": 45120,
+   "sha256": "77e6b761d9e60d527d5b7505c33b1c0374cd669e9330207f3f508fee2a3b02e0"
+  },
+  {
+   "path": "collections/collections_HYD_2026-04.csv.gz",
+   "bytes": 44048,
+   "sha256": "706354bb82d95c93e476364981eacd5489cae7f6961ddc9d3d934048d644f37e"
+  },
+  {
+   "path": "collections/collections_HYD_2026-05.csv.gz",
+   "bytes": 41347,
+   "sha256": "0c31d5b80766fb853e46caa36a0357fb033fdb3b12c524db2f515fb4adacbc4b"
+  },
+  {
+   "path": "collections/collections_HYD_2026-06.csv.gz",
+   "bytes": 42987,
+   "sha256": "77f7da7593209e986ef6cea546ef041eb8bee4589e6cdb8f5e76d189f7e67805"
+  },
+  {
+   "path": "collections/collections_JAI_2025-01.csv.gz",
+   "bytes": 25574,
+   "sha256": "911185c5c4c6d0c627abde1cab3f04141a8753d17359aa2a789c993da04e5fa2"
+  },
+  {
+   "path": "collections/collections_JAI_2025-02.csv.gz",
+   "bytes": 26486,
+   "sha256": "491defbb65aa43f2effa61d2582b271decaecb1525f1bb73938b10b9e05aa143"
+  },
+  {
+   "path": "collections/collections_JAI_2025-03.csv.gz",
+   "bytes": 27606,
+   "sha256": "df86ec73f392cffea23e17ab67402794e7e3a9cc8bf2a2beb36f6aea9ae5b93f"
+  },
+  {
+   "path": "collections/collections_JAI_2025-04.csv.gz",
+   "bytes": 22731,
+   "sha256": "64a0f3f6f7d69f3411047dbdaaf8e3149cb69a3acdd9f0c3495d880e11279a6b"
+  },
+  {
+   "path": "collections/collections_JAI_2025-05.csv.gz",
+   "bytes": 24563,
+   "sha256": "911a9218ac4c52bef3e3f48c08934e6659993c51c9fd01c10c30772933f97038"
+  },
+  {
+   "path": "collections/collections_JAI_2025-06.csv.gz",
+   "bytes": 23284,
+   "sha256": "9875bcaa94c387395fc329b39c109bb6fc7e5ff245fc53a7c47119131500d59a"
+  },
+  {
+   "path": "collections/collections_JAI_2025-07.csv.gz",
+   "bytes": 23112,
+   "sha256": "43b29a8d6fcff84b9f698d7382bb5e1b9d72a1b82a6abc348aa780618911fb4e"
+  },
+  {
+   "path": "collections/collections_JAI_2025-08.csv.gz",
+   "bytes": 23040,
+   "sha256": "871ed412d8be65429971e8ee6d48f7a4cb03a666e8f6e0d1e96fc5af5ad75292"
+  },
+  {
+   "path": "collections/collections_JAI_2025-09.csv.gz",
+   "bytes": 23749,
+   "sha256": "980a20008a1a6395a38f8f3abf700cb7244eae1582207ea48a0e7395c185ba68"
+  },
+  {
+   "path": "collections/collections_JAI_2025-10.csv.gz",
+   "bytes": 24190,
+   "sha256": "ba30f10602d899d0751e7e57f1477c8d017d5a59e86803824ca3a7aeb7faea34"
+  },
+  {
+   "path": "collections/collections_JAI_2025-11.csv.gz",
+   "bytes": 24268,
+   "sha256": "0b2a636d3adad2e77a24c1c3055ea4702994d789dd9117a844b4843d90c00b7d"
+  },
+  {
+   "path": "collections/collections_JAI_2025-12.csv.gz",
+   "bytes": 22920,
+   "sha256": "1a5ff5321e34e2c298e10e0fdf98ca454347a6200e2c4b8566a32d62f9d4560e"
+  },
+  {
+   "path": "collections/collections_JAI_2026-01.csv.gz",
+   "bytes": 23395,
+   "sha256": "6a8cd58cf69dc7edd83f2d2ceabc0df9554c988ab19892b2d5b64710523855d5"
+  },
+  {
+   "path": "collections/collections_JAI_2026-02.csv.gz",
+   "bytes": 23223,
+   "sha256": "b44917581d679099864da0f68c0d3489d39fd7fc6c1d676d2ee2bd8d53fe74d9"
+  },
+  {
+   "path": "collections/collections_JAI_2026-03.csv.gz",
+   "bytes": 23830,
+   "sha256": "1310aec4155f13dec155bdfb12292267cedfae19792b650398f512d5311d5b5d"
+  },
+  {
+   "path": "collections/collections_JAI_2026-04.csv.gz",
+   "bytes": 21625,
+   "sha256": "63612c96a7def462ce67dda88d080bc511323c70f6f888429e3e5be2405dd17b"
+  },
+  {
+   "path": "collections/collections_JAI_2026-05.csv.gz",
+   "bytes": 21803,
+   "sha256": "300ecf5564458aff14e35ea6cf2b60945b724e0b86f44368c3045fd09ab0748d"
+  },
+  {
+   "path": "collections/collections_JAI_2026-06.csv.gz",
+   "bytes": 22290,
+   "sha256": "ebc7c8cc8e2ab7054f697d8413c05f83e05517a2a5460379501bfaf5de0ceac6"
+  },
+  {
+   "path": "collections/collections_PUN_2025-01.csv.gz",
+   "bytes": 34924,
+   "sha256": "886a0ebfffe85319026b7a9be33c511665ba32f564ee537f72ef5a1359dfa7c7"
+  },
+  {
+   "path": "collections/collections_PUN_2025-02.csv.gz",
+   "bytes": 34328,
+   "sha256": "0adb5362b497e77003b847055a7240f25b9b9af9c7c84bb129b3fb8ff54f69f0"
+  },
+  {
+   "path": "collections/collections_PUN_2025-03.csv.gz",
+   "bytes": 33034,
+   "sha256": "1fa70756634634aeff4c7de0af5fc4c181fbc55025ee42631d8b54af4488cd47"
+  },
+  {
+   "path": "collections/collections_PUN_2025-04.csv.gz",
+   "bytes": 34356,
+   "sha256": "80e861cb69b79b346a704cf2718e60b737a8beede5c04b34ab521084ffa7a975"
+  },
+  {
+   "path": "collections/collections_PUN_2025-05.csv.gz",
+   "bytes": 33758,
+   "sha256": "e18055d33ba47d4f6b730a77cb8bc8b076a5c0d5e7e7109f5ff53196c33816d2"
+  },
+  {
+   "path": "collections/collections_PUN_2025-06.csv.gz",
+   "bytes": 32979,
+   "sha256": "06f85b76df38b72c9e92c4088d41c7db936b58db4e6dfdc5625a7c5375a62b7d"
+  },
+  {
+   "path": "collections/collections_PUN_2025-07.csv.gz",
+   "bytes": 33359,
+   "sha256": "7680e84b4d12cec4a53ce1cc38a41981a732ee12af536f3d992c850dd4021128"
+  },
+  {
+   "path": "collections/collections_PUN_2025-08.csv.gz",
+   "bytes": 31794,
+   "sha256": "cb2f1276132d20d8a29a0437f773e79e9344f48cf560c11c0ab5fd55b6f57655"
+  },
+  {
+   "path": "collections/collections_PUN_2025-09.csv.gz",
+   "bytes": 35038,
+   "sha256": "c6150ed6eb0a49b461022869c23e757c2495a8f87c0350b45048f6e6a4f1d393"
+  },
+  {
+   "path": "collections/collections_PUN_2025-10.csv.gz",
+   "bytes": 32048,
+   "sha256": "a882eb785de0536605206e5b7c019993c33200a95bce9633b0034c008ae40940"
+  },
+  {
+   "path": "collections/collections_PUN_2025-11.csv.gz",
+   "bytes": 32475,
+   "sha256": "b6d28951622b7c4127306fb99330bbd1d828686596651f3a87af67372482dbf4"
+  },
+  {
+   "path": "collections/collections_PUN_2025-12.csv.gz",
+   "bytes": 32703,
+   "sha256": "56e36bbb6a675c874a0c784609280cffbc85f35e4f7e787103a820e852578b26"
+  },
+  {
+   "path": "collections/collections_PUN_2026-01.csv.gz",
+   "bytes": 39550,
+   "sha256": "77f4b30cfd85f8eb284cf38b85e308968731b720825baa42a8cb4bf699edba42"
+  },
+  {
+   "path": "collections/collections_PUN_2026-02.csv.gz",
+   "bytes": 36742,
+   "sha256": "f2b36ef77fb358ae8363e06af47730e79eaab3da41e8358d74157a3a37f2af43"
+  },
+  {
+   "path": "collections/collections_PUN_2026-03.csv.gz",
+   "bytes": 39200,
+   "sha256": "12efa9ff0b390b678722c6ca22da1833c411734f968120912e96af7d2a7bcb1a"
+  },
+  {
+   "path": "collections/collections_PUN_2026-04.csv.gz",
+   "bytes": 36908,
+   "sha256": "2771ca51093824c624843d53e10ea4c8549a5665e473a3e18fd9fa6502f396a4"
+  },
+  {
+   "path": "collections/collections_PUN_2026-05.csv.gz",
+   "bytes": 33761,
+   "sha256": "1c0cd062808f860d77730b1b5cf412140c4793ed99611273965ac3001a25a3b7"
+  },
+  {
+   "path": "collections/collections_PUN_2026-06.csv.gz",
+   "bytes": 36111,
+   "sha256": "db1a08b4b6189325b16b6e5f7ecab1e194e94e9fefb0191a66874fc54989b744"
+  },
+  {
+   "path": "invoices/invoices_2024Q4.csv.gz",
+   "bytes": 255,
+   "sha256": "8cf1eea8e9ec9c1f6e816cf7ea73f0816c4cbc8185c2aeea35cb444d1150b69f"
+  },
+  {
+   "path": "invoices/invoices_2025Q1.csv.gz",
+   "bytes": 1093020,
+   "sha256": "3ea7be3e43ea9967672eda61e11cf9424aa7516a0e8fc7fa42e564297c8c09a1"
+  },
+  {
+   "path": "invoices/invoices_2025Q2.csv.gz",
+   "bytes": 1070372,
+   "sha256": "e6adc6d3198b155fd7553422b1f4f147dc3289f139cf0d03854c24ea6fb6396c"
+  },
+  {
+   "path": "invoices/invoices_2025Q3.csv.gz",
+   "bytes": 1043773,
+   "sha256": "b0ed7aae40d8937d9980844a4e0342a63cc1bf7d6326484000c2d04d4a2162a1"
+  },
+  {
+   "path": "invoices/invoices_2025Q4.csv.gz",
+   "bytes": 1022741,
+   "sha256": "5a5c329c4e5af8827eca55ce807d278ef9d073a4fd9d191c79883ee34ebf23f0"
+  },
+  {
+   "path": "invoices/invoices_2026Q1.csv.gz",
+   "bytes": 1148540,
+   "sha256": "daab5ee3dda84d8982583647e0fa09e475515e58408f0bb668c5442d40772f83"
+  },
+  {
+   "path": "invoices/invoices_2026Q2.csv.gz",
+   "bytes": 1093153,
+   "sha256": "1566109bf531a94d31df550d8cffe956347fe597bfa55cdd6d2d069d782de2b3"
+  },
+  {
+   "path": "patients/patients.csv.gz",
+   "bytes": 6290524,
+   "sha256": "4e5607afa48191dd24e2b5b4d3cf4a30bf30e0650160eb09ac4f9065a4aaa261"
+  },
+  {
+   "path": "payments/gateway_export_2024-12.csv.gz",
+   "bytes": 199,
+   "sha256": "45cb36322707ec36b64f013400bf21111b4c07f2d0682ac956bdc90fb019f037"
+  },
+  {
+   "path": "payments/gateway_export_2025-01.csv.gz",
+   "bytes": 309547,
+   "sha256": "4f9f06f27c76abe8152f8a523cb8ece0eb6bc514161839a9aa2f0be3edfba8c4"
+  },
+  {
+   "path": "payments/gateway_export_2025-02.csv.gz",
+   "bytes": 342448,
+   "sha256": "a5d80b8cfb4b9dc1caff4393704a4d86d3cca9c17e2bd86d17b64b71a3738ad5"
+  },
+  {
+   "path": "payments/gateway_export_2025-03.csv.gz",
+   "bytes": 356699,
+   "sha256": "6861d532ae6768dab57b3fa1ecdd235b07de95908317d3bfd1887607aff3f87b"
+  },
+  {
+   "path": "payments/gateway_export_2025-04.csv.gz",
+   "bytes": 344046,
+   "sha256": "4a0e8b414701f9803bd6c9d5765c1cc14614fb1f43160a8f759381ce9ac06b8d"
+  },
+  {
+   "path": "payments/gateway_export_2025-05.csv.gz",
+   "bytes": 343554,
+   "sha256": "2e80d1c9189032901e512504de587a8b255982aefccd6b834d5571443bdf5d7c"
+  },
+  {
+   "path": "payments/gateway_export_2025-06.csv.gz",
+   "bytes": 339380,
+   "sha256": "6205a4230fa5a9ecaf2567d24e868e55578c129dfe5666bfbeac8658a47113b7"
+  },
+  {
+   "path": "payments/gateway_export_2025-07.csv.gz",
+   "bytes": 339190,
+   "sha256": "9208a11041f70d47f9654f91aafc21f8b4737ba0dac8dd4ad97ac94fb018cee3"
+  },
+  {
+   "path": "payments/gateway_export_2025-08.csv.gz",
+   "bytes": 326156,
+   "sha256": "e6e28eb91338dc350091674da47b40c87cb2a2ff16172ff1ed1c6b897ad2987d"
+  },
+  {
+   "path": "payments/gateway_export_2025-09.csv.gz",
+   "bytes": 337749,
+   "sha256": "8351e3e911ff2766923c1a0338a420d4954b28ac451d67abd5c4d6a1b2439255"
+  },
+  {
+   "path": "payments/gateway_export_2025-10.csv.gz",
+   "bytes": 332292,
+   "sha256": "50b84a5594bb8d824a0f5d439c07713170f16498124f038dcd1f341f6a803eb7"
+  },
+  {
+   "path": "payments/gateway_export_2025-11.csv.gz",
+   "bytes": 326142,
+   "sha256": "570b895fe0d6758d5cabe0929f8bfb4ea83192328155046a0c36ddf2b5afa4fe"
+  },
+  {
+   "path": "payments/gateway_export_2025-12.csv.gz",
+   "bytes": 324083,
+   "sha256": "3b7962c2ba1100572eb3b248a3d0a8a4624afe852e125a6bf516aeda5ce3babc"
+  },
+  {
+   "path": "payments/gateway_export_2026-01.csv.gz",
+   "bytes": 359736,
+   "sha256": "e8038c5f965c7252b8e2d29e7121c63bc15395e34f77c7941685cf08d62e57e4"
+  },
+  {
+   "path": "payments/gateway_export_2026-02.csv.gz",
+   "bytes": 373626,
+   "sha256": "78fee6c8c600584ccc71b69929a44864a2db5aa25530705df8c49b18e1123332"
+  },
+  {
+   "path": "payments/gateway_export_2026-03.csv.gz",
+   "bytes": 366191,
+   "sha256": "1b7fc8fec0c6a6ec92e859aa9820c3d1256ecbaa015b8ab6c2d8d47c95ee3492"
+  },
+  {
+   "path": "payments/gateway_export_2026-04.csv.gz",
+   "bytes": 353119,
+   "sha256": "9b32b85083717a0cbc0f20bbed76f4537bb93b6f74b3dd24bcdfe43c385d18a8"
+  },
+  {
+   "path": "payments/gateway_export_2026-05.csv.gz",
+   "bytes": 347381,
+   "sha256": "d4b762da183482aae387a624e9dc36441c21b792dde56adc2f392c035211716c"
+  },
+  {
+   "path": "payments/gateway_export_2026-06.csv.gz",
+   "bytes": 317407,
+   "sha256": "3a030146f1670987ec7e5104a33d58a52dda8164e84035557c07feb193604a6a"
+  },
+  {
+   "path": "payments/gateway_export_2026-07.csv.gz",
+   "bytes": 24499,
+   "sha256": "904595069d8e166d9af6963ee824c70ce60c76695adbc966ed254abb931fe668"
+  },
+  {
+   "path": "payments/settlements_2024Q4.csv.gz",
+   "bytes": 159,
+   "sha256": "2dae28e0e21dfddc5093f52fc28a0de36d579e0fdba5e6f9c0d5670e1fd06b43"
+  },
+  {
+   "path": "payments/settlements_2025Q1.csv.gz",
+   "bytes": 2703,
+   "sha256": "89fb33240e2f0c593fb76bb051e722de44edc9bf62ddba939639b6fd89043c03"
+  },
+  {
+   "path": "payments/settlements_2025Q2.csv.gz",
+   "bytes": 2694,
+   "sha256": "5ef023d6a6c046b8adcfd9c3effd2b961533ccc259d5c9c4c3279f6f6eae386d"
+  },
+  {
+   "path": "payments/settlements_2025Q3.csv.gz",
+   "bytes": 2745,
+   "sha256": "4c7a5852c3a38c0b1ce61c1137aa18d78f7d113286a4ec23ede2817765085c79"
+  },
+  {
+   "path": "payments/settlements_2025Q4.csv.gz",
+   "bytes": 2744,
+   "sha256": "d75c5faac1436aa73d0e60961301ad37da2dd3816d33ba4fd00bca961d0901b9"
+  },
+  {
+   "path": "payments/settlements_2026Q1.csv.gz",
+   "bytes": 2707,
+   "sha256": "b15ec9996c7e845b957c5c90c2ae1d0811e34f4d046ae906a4d19d13714ee104"
+  },
+  {
+   "path": "payments/settlements_2026Q2.csv.gz",
+   "bytes": 2723,
+   "sha256": "6d7cf326e422056022d7825e3a592ef7cf7ec845f26b2a5c079c9e176ade5726"
+  },
+  {
+   "path": "payments/settlements_2026Q3.csv.gz",
+   "bytes": 561,
+   "sha256": "7a8eb794575428bbcb699978a40d7dde6890a5bce61ab3c13bcbf8bfc94bf92d"
+  },
+  {
+   "path": "plan/plan_2026_H1.csv",
+   "bytes": 464,
+   "sha256": "9cb9fc298d91872cd3c5f90ac4b9538e043efb9c14e08c9809798d9cb30fa947"
+  },
+  {
+   "path": "reference/cities.csv",
+   "bytes": 130,
+   "sha256": "18770341c1e1f67eca05976c1f1bf2e6752cfc48a2c3f59c164b6b6f4d9f24a3"
+  },
+  {
+   "path": "reference/clinics.csv",
+   "bytes": 1757,
+   "sha256": "82bc460b4dfacb9e1d4a906f68860b1c9db1215cea9ad71168095c620392daa3"
+  },
+  {
+   "path": "reference/tests_catalogue.csv",
+   "bytes": 669,
+   "sha256": "e8e81ca0bbcc44f7b9c7251d543badbc010e81511849b2153c7cc4ff25336ca9"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-01.csv.gz",
+   "bytes": 103109,
+   "sha256": "c29fcef354b1d63ea525812a47fc199572cd2fc55437e44e8dca282eb0734664"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-02.csv.gz",
+   "bytes": 99051,
+   "sha256": "f74615452e96950b7c0da4a61f524f58478e538c945603826407efcfdd570e73"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-03.csv.gz",
+   "bytes": 99893,
+   "sha256": "a8ada641824b188b4c5e20b9afcf829c3ef51472669833678f10fbac5d77866e"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-04.csv.gz",
+   "bytes": 106159,
+   "sha256": "cafe1d2689c7d717bad15632dd31f4a0f8b7a913285932e6c267fc6bb14b1abb"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-05.csv.gz",
+   "bytes": 102078,
+   "sha256": "704036ddc66265561a1f84be3b04b8588868bab760944c3d66b8138c5247f218"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-06.csv.gz",
+   "bytes": 104661,
+   "sha256": "80863eea2c84a5d8fcd1840dd7511c96c315fd1870ce62a8b93a5c50826438b6"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-07.csv.gz",
+   "bytes": 100014,
+   "sha256": "6201c0ba5d8a154bd9e9d01dcfe8e9645d311efe23606e5dfa1895172ce522f7"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-08.csv.gz",
+   "bytes": 93894,
+   "sha256": "6d12444377735eb5076afd74bbcc4c0fa0f58b7a3355e62183f2e6c40d552c2f"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-09.csv.gz",
+   "bytes": 99653,
+   "sha256": "00502b8349848b6737c692a54568184751fdd5f22573029331186933757372f8"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-10.csv.gz",
+   "bytes": 99612,
+   "sha256": "a6b7f477c0682cbe1f21cb0a80f4c35b1b6ca6134e248c1034409c05c2df50aa"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-11.csv.gz",
+   "bytes": 96175,
+   "sha256": "31fdbc8dfbb97c073251f37e1ec63f4e1a7ff585223588c7275eee6c3b82a4ac"
+  },
+  {
+   "path": "results/ahmedabad/results_2025-12.csv.gz",
+   "bytes": 97494,
+   "sha256": "c10d310e2be5f9890bf8f89d6a204717e66bfac0d94fd5b594a19983d5938940"
+  },
+  {
+   "path": "results/ahmedabad/results_2026-01.csv.gz",
+   "bytes": 113670,
+   "sha256": "d94131c95fbb549efcebd923ac2b03b3afe2770526e8a8d3845742cc9f78b3a2"
+  },
+  {
+   "path": "results/ahmedabad/results_2026-02.csv.gz",
+   "bytes": 116262,
+   "sha256": "312c906b7586137826c240c47d7749a61c2ee9371a0e6d284c1ae400d7db8738"
+  },
+  {
+   "path": "results/ahmedabad/results_2026-03.csv.gz",
+   "bytes": 115866,
+   "sha256": "8b2c74204cd48588d9f88650fd8d0a24e8e8470256dba956b5efe7746ee117be"
+  },
+  {
+   "path": "results/ahmedabad/results_2026-04.csv.gz",
+   "bytes": 110475,
+   "sha256": "f19cf7561f79c6c0dd485e9dd66fa4a2a2a125d902b35b67b156f78ddb9d6cf8"
+  },
+  {
+   "path": "results/ahmedabad/results_2026-05.csv.gz",
+   "bytes": 111813,
+   "sha256": "39e098bb3d8867680e988d453d1d003fd197da5b83710371c94583039670b09f"
+  },
+  {
+   "path": "results/ahmedabad/results_2026-06.csv.gz",
+   "bytes": 113506,
+   "sha256": "4b5fcdaf15de4b90a2694ac5763c4d4d19ab66201c3b0daa070bdb4a39839f68"
+  },
+  {
+   "path": "results/bengaluru/results_2025-01.csv.gz",
+   "bytes": 135037,
+   "sha256": "0ecf773f102fc7c4be99a107bc2d6facb64ec8850d0340f471323af4e1156418"
+  },
+  {
+   "path": "results/bengaluru/results_2025-02.csv.gz",
+   "bytes": 131178,
+   "sha256": "4a9ff67dea44cc566eab342db7cb5095794ddcad448dee3f81d76bd622547c4f"
+  },
+  {
+   "path": "results/bengaluru/results_2025-03.csv.gz",
+   "bytes": 138374,
+   "sha256": "b81236e681b36efcb6c02d02b27fefac9c2f947f75a3dd7b6ca07ecbe33eda92"
+  },
+  {
+   "path": "results/bengaluru/results_2025-04.csv.gz",
+   "bytes": 128627,
+   "sha256": "631c85fcf798eef15c091c3643854f71b0f83cd5731a64086e1b96a70c976aef"
+  },
+  {
+   "path": "results/bengaluru/results_2025-05.csv.gz",
+   "bytes": 132657,
+   "sha256": "456e753aa4b0aa782bb378119b2eafc11a4acf723595f0391d8a65021c48d392"
+  },
+  {
+   "path": "results/bengaluru/results_2025-06.csv.gz",
+   "bytes": 130937,
+   "sha256": "e03812694feb091ecdc3709a968def8d46b7300ff28df3e9a5a2dfe5d716762d"
+  },
+  {
+   "path": "results/bengaluru/results_2025-07.csv.gz",
+   "bytes": 130315,
+   "sha256": "9c6b0bcd5d5995306bcc8e2b9066606bfaff7c45ba0e4b1fd87b259d9ee7369f"
+  },
+  {
+   "path": "results/bengaluru/results_2025-08.csv.gz",
+   "bytes": 124367,
+   "sha256": "68326715867f240402a5fe86a2b51c7ea0cf3db78cd0afc94b6dbc3ab5017fda"
+  },
+  {
+   "path": "results/bengaluru/results_2025-09.csv.gz",
+   "bytes": 130701,
+   "sha256": "79488b42096f97fe0b8d76001e3188db0560cb85dae771d2db13f25c09d263be"
+  },
+  {
+   "path": "results/bengaluru/results_2025-10.csv.gz",
+   "bytes": 126987,
+   "sha256": "fb7dac5858479ddc37ca6a57e0b50391375413f485e186aa7bfb6d1ccb7978a9"
+  },
+  {
+   "path": "results/bengaluru/results_2025-11.csv.gz",
+   "bytes": 117333,
+   "sha256": "05ce2c02d3f249875c185fd8ae417e1d57a566c8be084addc76167f2884968e7"
+  },
+  {
+   "path": "results/bengaluru/results_2025-12.csv.gz",
+   "bytes": 119489,
+   "sha256": "95b8ea7c5266dbabe0c3c89a9ef94385d00d79411403553c138041feb4d91753"
+  },
+  {
+   "path": "results/bengaluru/results_2026-01.csv.gz",
+   "bytes": 147322,
+   "sha256": "815eb3d8fe2a053a9976399538b02f46b3b2460737a6891993773d591e8bdbf6"
+  },
+  {
+   "path": "results/bengaluru/results_2026-02.csv.gz",
+   "bytes": 157846,
+   "sha256": "e979a31586677c5f9e822bbc286039445e3e05949eddb29b40249e183bc3dfe7"
+  },
+  {
+   "path": "results/bengaluru/results_2026-03.csv.gz",
+   "bytes": 141183,
+   "sha256": "f4c2f0ad38dd43eb69cc483f08787be2c8697f334d2f4bea86ab5a2febb6e1ae"
+  },
+  {
+   "path": "results/bengaluru/results_2026-04.csv.gz",
+   "bytes": 142718,
+   "sha256": "1db12e2053126e59e8e253369a36da761511975dcabd29288949311b889e4e4e"
+  },
+  {
+   "path": "results/bengaluru/results_2026-05.csv.gz",
+   "bytes": 141877,
+   "sha256": "e07c088357b93fc367633a54627e413f15f9691c0450d78559a2da519bab057c"
+  },
+  {
+   "path": "results/bengaluru/results_2026-06.csv.gz",
+   "bytes": 135008,
+   "sha256": "47fc41801f710e597c7957d88fa366765e6a13cdd171da09129f1f394f0ebd73"
+  },
+  {
+   "path": "results/chennai/results_2025-01.csv.gz",
+   "bytes": 104733,
+   "sha256": "f97ab9d0c1e022f3da695f964aaed0ac2793a248e6c5284d3517f98758078d67"
+  },
+  {
+   "path": "results/chennai/results_2025-02.csv.gz",
+   "bytes": 102799,
+   "sha256": "7b666fcfa152ddbccb8ea7506c16bb00d4f10dc3fb200c8ad62dbf7767e40876"
+  },
+  {
+   "path": "results/chennai/results_2025-03.csv.gz",
+   "bytes": 111936,
+   "sha256": "cec260f88d8a7ed12c3d655b800947f3654eb08e5f54ba6bfd0a9f00039f29c3"
+  },
+  {
+   "path": "results/chennai/results_2025-04.csv.gz",
+   "bytes": 105668,
+   "sha256": "d5deda62597e4932b4f9198713bc1eee652d8cd395770f3ff6cbc24f02312a28"
+  },
+  {
+   "path": "results/chennai/results_2025-05.csv.gz",
+   "bytes": 106614,
+   "sha256": "883e5c1654fa31c3991db60ad8a8f2df6a70b0493869ca210a818b531c2491e4"
+  },
+  {
+   "path": "results/chennai/results_2025-06.csv.gz",
+   "bytes": 106744,
+   "sha256": "bafd87991f2ed85be6b1b77ea07db8f43b04a117aa7efbab928be881ac7a8cca"
+  },
+  {
+   "path": "results/chennai/results_2025-07.csv.gz",
+   "bytes": 105846,
+   "sha256": "c1e5c913fd2bc1bf0fda0308d8c01e8390be7a00c66b79947eae56a302f6c11e"
+  },
+  {
+   "path": "results/chennai/results_2025-08.csv.gz",
+   "bytes": 105102,
+   "sha256": "32d0170fff23c3993109ad0aa72bddcfae2de3fc080502c11efc608b7ffed046"
+  },
+  {
+   "path": "results/chennai/results_2025-09.csv.gz",
+   "bytes": 109726,
+   "sha256": "b938353ee746345cf5cb7a13ebeb57bf53b06371e54dfcf2006e66a769f24b1f"
+  },
+  {
+   "path": "results/chennai/results_2025-10.csv.gz",
+   "bytes": 104715,
+   "sha256": "60d6584c8953b7a9a9083f1e22c07cf8d13c957972073113a2222326b91d7522"
+  },
+  {
+   "path": "results/chennai/results_2025-11.csv.gz",
+   "bytes": 106565,
+   "sha256": "c620274e3ead8b028646ee7027cad3642a4c2407a4b33111ee105d005cb61db9"
+  },
+  {
+   "path": "results/chennai/results_2025-12.csv.gz",
+   "bytes": 104197,
+   "sha256": "e5d3922bcf1d3315436e86bfedd4d7c4c0a3891a945e2b60669277fa7a047789"
+  },
+  {
+   "path": "results/chennai/results_2026-01.csv.gz",
+   "bytes": 110137,
+   "sha256": "194c705e2fc4436a6b119883432420db802ba19a0a81360209bc8aff3da5414e"
+  },
+  {
+   "path": "results/chennai/results_2026-02.csv.gz",
+   "bytes": 117727,
+   "sha256": "bf3a27e640807b26c29a895118117f136be6426743d6a56c98e6a6d1aeae094b"
+  },
+  {
+   "path": "results/chennai/results_2026-03.csv.gz",
+   "bytes": 106906,
+   "sha256": "368a703e9e0af9b644d583db4f6fe9bd5aaa53761079d204ac05ef9163fc811c"
+  },
+  {
+   "path": "results/chennai/results_2026-04.csv.gz",
+   "bytes": 103569,
+   "sha256": "b1f50658635898196f91f5432aca1b3936dfdfcca0456bb349ee5a6f961f303b"
+  },
+  {
+   "path": "results/chennai/results_2026-05.csv.gz",
+   "bytes": 103604,
+   "sha256": "9670c09dd6bdeb2518a0c22ae3fc1fb77976178aeca8c496b2b7273c86f59542"
+  },
+  {
+   "path": "results/chennai/results_2026-06.csv.gz",
+   "bytes": 102270,
+   "sha256": "0ef7041ba0901fad945b054ae1d23521a897530400b707bef14649b1c08bbd1b"
+  },
+  {
+   "path": "results/hyderabad/results_2025-01.csv.gz",
+   "bytes": 100783,
+   "sha256": "018d0d2eabaa5113a4da62664b3bf2e37cd9e2f8339288d12f58e56c82af3956"
+  },
+  {
+   "path": "results/hyderabad/results_2025-02.csv.gz",
+   "bytes": 99328,
+   "sha256": "b5a80883a0fda2ae5d372915e8b1e3c75f3401c95747dbb1880c539671d5b4b6"
+  },
+  {
+   "path": "results/hyderabad/results_2025-03.csv.gz",
+   "bytes": 97871,
+   "sha256": "15d0d9de87b47f7c526edfb899af6b95b4035d92033cffb2e5521c6461ed3c03"
+  },
+  {
+   "path": "results/hyderabad/results_2025-04.csv.gz",
+   "bytes": 101511,
+   "sha256": "3d218f6b3d9318b6929672d97e969e0698e63d77c6db3c8482a7de8d0d9dc68b"
+  },
+  {
+   "path": "results/hyderabad/results_2025-05.csv.gz",
+   "bytes": 94298,
+   "sha256": "cbfc8ff36d914f85546a6d19347f4df9bb6f2c5c6eb61727074ea2227fe16eb6"
+  },
+  {
+   "path": "results/hyderabad/results_2025-06.csv.gz",
+   "bytes": 92495,
+   "sha256": "719a9e620c10a3aa83c23d85d4114211870fb3b6210e61c5e4334c35b2d785d7"
+  },
+  {
+   "path": "results/hyderabad/results_2025-07.csv.gz",
+   "bytes": 98267,
+   "sha256": "bd473e1d759a2da3b09c336063304a6058c21d94dc6064c9d2f72834bfb3342d"
+  },
+  {
+   "path": "results/hyderabad/results_2025-08.csv.gz",
+   "bytes": 88951,
+   "sha256": "1fd28691a2d9647a3f9902e622ee2373eef3b9779d9b009679d8d687c8fd1719"
+  },
+  {
+   "path": "results/hyderabad/results_2025-09.csv.gz",
+   "bytes": 92612,
+   "sha256": "08e40f446e7cd3615f1aaa68410dd3822af85b9b6955674131445146a962d681"
+  },
+  {
+   "path": "results/hyderabad/results_2025-10.csv.gz",
+   "bytes": 91052,
+   "sha256": "9bb1c68b789a5e8843334dca3cb9bb853103da6975125a5ff16ed1b75e52643c"
+  },
+  {
+   "path": "results/hyderabad/results_2025-11.csv.gz",
+   "bytes": 89096,
+   "sha256": "481efbd9fbf5d9776121bf3d087a435fc26267374bb6c8ce476b7fa5ad028d17"
+  },
+  {
+   "path": "results/hyderabad/results_2025-12.csv.gz",
+   "bytes": 92881,
+   "sha256": "7ce532147434ff4e4794e3bdaf9b401d190f2fca0cde36f64924c0fecb7edb88"
+  },
+  {
+   "path": "results/hyderabad/results_2026-01.csv.gz",
+   "bytes": 106543,
+   "sha256": "052f6fa67015f4edb3bdd98f0d71379a825a220bafd9593034a6e7e1a36b91fd"
+  },
+  {
+   "path": "results/hyderabad/results_2026-02.csv.gz",
+   "bytes": 110955,
+   "sha256": "2a9250dd30a6ccf9042521a9b574405343f9b1791a0e539125ba89221706cc34"
+  },
+  {
+   "path": "results/hyderabad/results_2026-03.csv.gz",
+   "bytes": 106879,
+   "sha256": "93440dc371154c8abdeec2e95230cb9206145dfd76d59bca4f7431ad361e28ea"
+  },
+  {
+   "path": "results/hyderabad/results_2026-04.csv.gz",
+   "bytes": 104971,
+   "sha256": "37022e1643fe088d330a03a9ffd1f0821c703ba938bbaeb8cf437ffcd7e38ade"
+  },
+  {
+   "path": "results/hyderabad/results_2026-05.csv.gz",
+   "bytes": 98892,
+   "sha256": "f2f6e90b19fc86f217c8d96117e584a77dcaed59407ac3eed03041098016aab6"
+  },
+  {
+   "path": "results/hyderabad/results_2026-06.csv.gz",
+   "bytes": 104772,
+   "sha256": "9eb9174fe9853c63ea851eeb320e17bbad3de4d30442fd4172a53574a2ff9b2e"
+  },
+  {
+   "path": "results/jaipur/results_2025-01.csv.gz",
+   "bytes": 61189,
+   "sha256": "03a9a73aa6316d0ef48d533446c9b60f4ce9bedbec27eba10e1eae23fc37cf5d"
+  },
+  {
+   "path": "results/jaipur/results_2025-02.csv.gz",
+   "bytes": 64597,
+   "sha256": "3e0d645eaff8903dea8562eab40702fa3ebbe9c7eef89009230190b2f03f10f5"
+  },
+  {
+   "path": "results/jaipur/results_2025-03.csv.gz",
+   "bytes": 65759,
+   "sha256": "86b72dbe898923dbf8d08dec7932f8a4022380e7c69669e46256420e955b7ee4"
+  },
+  {
+   "path": "results/jaipur/results_2025-04.csv.gz",
+   "bytes": 56005,
+   "sha256": "a1700e91831f86ac44be5f8c6a01beba6b5a9ac93d122d95b78a1a4589abdc00"
+  },
+  {
+   "path": "results/jaipur/results_2025-05.csv.gz",
+   "bytes": 58896,
+   "sha256": "9c5a35b90ca31b63d44bf9f89c8e7fab1f5027b4800d4ffef3823276d1855934"
+  },
+  {
+   "path": "results/jaipur/results_2025-06.csv.gz",
+   "bytes": 56346,
+   "sha256": "9315cd8f3f4927a93c99699c364ca4b0121794ee143be09d31e32386b05b51ec"
+  },
+  {
+   "path": "results/jaipur/results_2025-07.csv.gz",
+   "bytes": 56473,
+   "sha256": "b7806a476a7abd070bbf6ea90fca99091d954285988ca2faae6e37d11d7a12e0"
+  },
+  {
+   "path": "results/jaipur/results_2025-08.csv.gz",
+   "bytes": 55924,
+   "sha256": "3f2cb624cd4b9d436ef9696a921b92c62f6dbc22cdee588ec886cdb2f38b5344"
+  },
+  {
+   "path": "results/jaipur/results_2025-09.csv.gz",
+   "bytes": 55327,
+   "sha256": "300b08e14404237f851c5522e919fbe838504300cebdd165b5f303680aa29e8c"
+  },
+  {
+   "path": "results/jaipur/results_2025-10.csv.gz",
+   "bytes": 59754,
+   "sha256": "5e5b3dd7bff32bab51bb0bf9dbb0b43a86164f8ff507cea523e2dbd334010010"
+  },
+  {
+   "path": "results/jaipur/results_2025-11.csv.gz",
+   "bytes": 57843,
+   "sha256": "2025f4d9f6375144e54533898f1454fc1a02f8f5e1eebc117973f06a810c5ee3"
+  },
+  {
+   "path": "results/jaipur/results_2025-12.csv.gz",
+   "bytes": 54733,
+   "sha256": "67498edadbc74b12e9a3a0ada29516d1377a0132edacff2f4c4b7e457efaa3e8"
+  },
+  {
+   "path": "results/jaipur/results_2026-01.csv.gz",
+   "bytes": 55389,
+   "sha256": "87f2e586c045e8280ca6b55ad52d4da54fac1843fd637c462c2080c379bb9fbc"
+  },
+  {
+   "path": "results/jaipur/results_2026-02.csv.gz",
+   "bytes": 55780,
+   "sha256": "17dc621b7a32d42227100b01766c89b90e8ae5a31dad693f96fe60e2894498ac"
+  },
+  {
+   "path": "results/jaipur/results_2026-03.csv.gz",
+   "bytes": 56168,
+   "sha256": "445a5ec874dc0a2a8a654cbd3d6e515d4ff5575d6aebf517df7ae7df10c6dd74"
+  },
+  {
+   "path": "results/jaipur/results_2026-04.csv.gz",
+   "bytes": 51858,
+   "sha256": "5e1c31ee524eea60be1f92dca563495e136939e62c398b67d910fcd9bb9c9f46"
+  },
+  {
+   "path": "results/jaipur/results_2026-05.csv.gz",
+   "bytes": 52501,
+   "sha256": "4a1bdefc6f835a34415766c7783a328d180b479d547d9efb282adc241538acfc"
+  },
+  {
+   "path": "results/jaipur/results_2026-06.csv.gz",
+   "bytes": 54349,
+   "sha256": "107681e2d1b501ac0f07e25e0081b1d314611e5f5b8e22071144d804c471371b"
+  },
+  {
+   "path": "results/pune/results_2025-01.csv.gz",
+   "bytes": 83283,
+   "sha256": "309bdcfa1f5988b719522559b0523cfa53e118e145494682969d3911de4d6dcf"
+  },
+  {
+   "path": "results/pune/results_2025-02.csv.gz",
+   "bytes": 83244,
+   "sha256": "787d38d0fa3dd2dde5a1b15224dde9d5fac853a3358d8ba19cfdc39b87dd8db7"
+  },
+  {
+   "path": "results/pune/results_2025-03.csv.gz",
+   "bytes": 78771,
+   "sha256": "de7ef28a30ee6886d3d55e891e208a34995936df8c617176b1e8dc62571a7488"
+  },
+  {
+   "path": "results/pune/results_2025-04.csv.gz",
+   "bytes": 82148,
+   "sha256": "9ed77c9b0c25d8dea88c07c14bb21aefebe3057bf0d562dfb37d9a452f9920f8"
+  },
+  {
+   "path": "results/pune/results_2025-05.csv.gz",
+   "bytes": 79722,
+   "sha256": "de88e2f4118eb9dc097cc77b62c1df9af45ea8813b1a62030d97e49ad2a1b6bf"
+  },
+  {
+   "path": "results/pune/results_2025-06.csv.gz",
+   "bytes": 78749,
+   "sha256": "9a75576958a6860a59b5b68f29d44e1f468fd40ce8ea1f1969ce716ddf5dd195"
+  },
+  {
+   "path": "results/pune/results_2025-07.csv.gz",
+   "bytes": 79044,
+   "sha256": "6ea696acd0cd00e1e8e73295a852b8e38b104e5f3c85df9af501ce0ab2907a27"
+  },
+  {
+   "path": "results/pune/results_2025-08.csv.gz",
+   "bytes": 77181,
+   "sha256": "4a6203b1a02b9ea476c751ef2618199ce407434be0ebae4ff743d2930766f1f4"
+  },
+  {
+   "path": "results/pune/results_2025-09.csv.gz",
+   "bytes": 82636,
+   "sha256": "93aff1bf282b3a708e7eaa2f8988659c282768f38d9ad39211805d6373ad43a3"
+  },
+  {
+   "path": "results/pune/results_2025-10.csv.gz",
+   "bytes": 76441,
+   "sha256": "036ac69460d6e6552d8a85b61843e808455b530b24527e1f0400a470bb073c65"
+  },
+  {
+   "path": "results/pune/results_2025-11.csv.gz",
+   "bytes": 78523,
+   "sha256": "4ed56837159c85f33817109591a437712b2fe00b27c0b2998a3fef9c0074fbdb"
+  },
+  {
+   "path": "results/pune/results_2025-12.csv.gz",
+   "bytes": 78231,
+   "sha256": "505c173c115eff30cccfd3cba697b49857d411797a3ad71236a6a52ff912c588"
+  },
+  {
+   "path": "results/pune/results_2026-01.csv.gz",
+   "bytes": 93416,
+   "sha256": "d56bfae82eb4a844c6a0fb4ed86df1cd23e17a6ed03295ac7877f99bac64585d"
+  },
+  {
+   "path": "results/pune/results_2026-02.csv.gz",
+   "bytes": 87487,
+   "sha256": "4316471145fd66e6df79b7d62b7f1961511dd0c69d5e5379dc09dd8f3cdd4173"
+  },
+  {
+   "path": "results/pune/results_2026-03.csv.gz",
+   "bytes": 93359,
+   "sha256": "1d8b72d6cf9756339579650ab606e58457ac2d77a1454d9b5c5db0c9a5ff7226"
+  },
+  {
+   "path": "results/pune/results_2026-04.csv.gz",
+   "bytes": 87958,
+   "sha256": "dacd510b484bce54e346befb11286b05a7c49ae0e272c52f1d2fc7ff4344b67b"
+  },
+  {
+   "path": "results/pune/results_2026-05.csv.gz",
+   "bytes": 79621,
+   "sha256": "4a54b56c10ee0c7304cac9865f643717ad915458a659fa85d43ecc90206ae631"
+  },
+  {
+   "path": "results/pune/results_2026-06.csv.gz",
+   "bytes": 86037,
+   "sha256": "8615a137104249e900d22bad9dc10cc5832f059191adcc40249c21b2a9fc3e31"
+  }
+ ]
+}

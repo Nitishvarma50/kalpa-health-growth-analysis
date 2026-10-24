@@ -1,0 +1,25 @@
+test_code,test_name,list_price_rs,is_package
+T001,Complete blood count,350,0
+T002,Fasting glucose,120,0
+T003,HbA1c,450,0
+T004,Lipid profile,650,0
+T005,Liver function,700,0
+T006,Kidney function,650,0
+T007,Thyroid profile,550,0
+T008,Vitamin D,1100,0
+T009,Vitamin B12,800,0
+T010,Urine routine,150,0
+T011,Iron studies,750,0
+T012,Dengue NS1,600,0
+T013,CRP,400,0
+T014,ESR,150,0
+T015,Uric acid,180,0
+T016,Calcium,160,0
+T017,Electrolytes,450,0
+T018,PSA,700,0
+T019,Pregnancy beta hCG,500,0
+T020,Hepatitis B surface antigen,450,0
+PK01,"Full body checkup, basic",1499,1
+PK02,"Full body checkup, advanced",2999,1
+PK03,Diabetes care package,999,1
+PK04,Senior citizen package,2499,1
